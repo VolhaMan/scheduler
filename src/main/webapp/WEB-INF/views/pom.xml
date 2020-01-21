@@ -8,7 +8,7 @@
   <name>scheduler Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-    <spring.webmvc>5.1.9.RELEASE</spring.webmvc>
+    <spring.webmvc>5.2.0.RELEASE</spring.webmvc>
   </properties>
   <dependencies>
     <dependency>
